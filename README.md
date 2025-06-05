@@ -215,15 +215,6 @@ The drug sensitivity prediction task aims to predict the response of different c
 </p>
  
   
-<h2 id="6">📝 Cite</h2>
-
-```
-@article{fang2024chatcell,
-  title={ChatCell: Facilitating Single-Cell Analysis with Natural Language},
-  author={Fang, Yin and Liu, Kangwei and Zhang, Ningyu and Deng, Xinle and Yang, Penghui and Chen, Zhuo and Tang, Xiangru and Gerstein, Mark and Fan, Xiaohui and Chen, Huajun},
-  year={2024},
-}
-```
 
 ### Other Related Projects
 
